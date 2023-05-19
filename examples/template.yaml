@@ -1,0 +1,24 @@
+title:    # episode title
+subtitle: # episode subtitle
+season:   1
+number:   # episode number
+author:   # author(s), formatted AUTHOR1, AUTHOR2. ex: John Doe, Tommy J, Mario DeCaprio
+
+podcast_url:  https://counterplan.github.io/  
+filename:     # /path/to/file.mp3
+date_time:    # Date and time recorded. ex: 18 April 2023 13:00:00 MDT
+duration:     # duration of audiofile. ex: 23:06
+explicit:     false
+
+thumbnail:    null # make /path/to/thumbnail.jpeg if you want a custom thumbnail for the episode
+chapters:
+  - title: Bob
+    startTime: 00:00
+  - title: Alice
+    startTime: 01:06
+  - title: John Doe
+    startTime: 10:01
+
+# Format links, lists, headers, and others as markdown.
+description: |
+# hit tab first before putting description

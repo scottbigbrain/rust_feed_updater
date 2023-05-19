@@ -1,0 +1,24 @@
+title:    testing ye
+subtitle: lol
+season:   1
+number:   69420
+author:   John Doe, Tommy J, Mario DeCaprio
+
+podcast_url:  https://counterplan.github.io/  
+filename:     /path/to/file.mp3
+date_time:    18 April 2023 13:00:00 MDT
+duration:     23:06
+explicit:     false
+
+thumbnail:    /path/to/thumbnail.jpeg
+chapters:
+  - title: Bob
+    startTime: 00:00
+  - title: Alice
+    startTime: 01:06
+  - title: John Doe
+    startTime: 10:01
+
+# Format links, lists, headers, and others as HTML.
+description: |
+  hello world
